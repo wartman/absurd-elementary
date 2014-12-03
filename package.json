@@ -1,0 +1,20 @@
+{
+  "name": "elementary",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Peter Wartman",
+  "license": "MIT",
+  "dependencies": {
+    "absurd": "~0.3.149",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-absurd": "0.0.4"
+  }
+}
